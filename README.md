@@ -20,7 +20,7 @@ Este sito se realizó a manera de práctica a partir del tutorial subido por el 
 
 Te invito a conocer el sitio desplegado en las siguiente plataforma:
 
--   Github Pages:
+-   Github Pages: https://faridleo1998.github.io/Watches_website/
 
 ## Construido con 🛠️
 
